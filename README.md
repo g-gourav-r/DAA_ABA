@@ -8,7 +8,7 @@ Difficulty : Hard
 
 ![image](https://user-images.githubusercontent.com/75977813/183895611-52bc5216-837e-4699-9459-ea258b09c226.png)
 
-[Solution]()
+[Solution](https://github.com/g-gourav-r/DAA_ABA/blob/main/Greedy_Florist.java)
 
 ---
 ## Problem 2
@@ -19,7 +19,7 @@ Difficulty : Medium
 
 ![image](https://user-images.githubusercontent.com/75977813/183896038-84203938-a1c6-4b58-93e8-5cb558e40d77.png)
 
-[Solution]()
+[Solution](https://github.com/g-gourav-r/DAA_ABA/blob/main/Sherlock_and_Anagrams.java)
 
 ---
 ## Problem 3
@@ -30,4 +30,4 @@ Difficulty : Medium
 
 ![image](https://user-images.githubusercontent.com/75977813/183896276-6b18d29f-d425-48c6-ac32-bb5ccb186869.png)
 
-[Solution]()
+[Solution](https://github.com/g-gourav-r/DAA_ABA/blob/main/City_of_Bindinglights.java)
